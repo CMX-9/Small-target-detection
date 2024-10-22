@@ -1,0 +1,19 @@
+﻿  main.cpp
+f:\vs\test\boatme\boatme\main.cpp(22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\vs\test\boatme\boatme\main.cpp(24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\vs\test\boatme\boatme\main.cpp(232): warning C4101: “g”: 未引用的局部变量
+f:\vs\test\boatme\boatme\main.cpp(456): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs\test\boatme\boatme\main.cpp(460): warning C4018: “>”: 有符号/无符号不匹配
+f:\vs\test\boatme\boatme\main.cpp(464): warning C4018: “>”: 有符号/无符号不匹配
+f:\vs\test\boatme\boatme\main.cpp(682): warning C4101: “j”: 未引用的局部变量
+f:\vs\test\boatme\boatme\main.cpp(682): warning C4101: “i”: 未引用的局部变量
+f:\vs\test\boatme\boatme\main.cpp(779): warning C4101: “t”: 未引用的局部变量
+f:\vs\test\boatme\boatme\main.cpp(925): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\vs\test\boatme\boatme\main.cpp(127): warning C4715: “BaseGeodesicLine”: 不是所有的控件路径都返回值
+f:\vs\test\boatme\boatme\main.cpp(160): warning C4715: “GeodesicLine”: 不是所有的控件路径都返回值
+f:\vs\test\boatme\boatme\main.cpp(227): warning C4715: “Intensity_brightness”: 不是所有的控件路径都返回值
+f:\vs\test\boatme\boatme\main.cpp(451): warning C4715: “ThresholdOperate”: 不是所有的控件路径都返回值
+f:\vs\test\boatme\boatme\main.cpp(678): warning C4715: “Remark”: 不是所有的控件路径都返回值
+f:\vs\test\boatme\boatme\main.cpp(733): warning C4715: “ShipsSurveys”: 不是所有的控件路径都返回值
+f:\vs\test\boatme\boatme\main.cpp(866): warning C4715: “N_Expansion”: 不是所有的控件路径都返回值
+  boatme.vcxproj -> F:\vs\test\boatme\x64\Debug\boatme.exe

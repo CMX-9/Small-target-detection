@@ -1,0 +1,6 @@
+(1) The path is modified at the beginning position in the main() function, and the main() function is at the last position of the project.
+(2) Use VS2019 + opencv to achieve the picture of the read and write operations. #include<opencv2/opencv.hpp>
+(3) Solution in test\\boatme\\\boateme.sln
+(4) Due to the large size of the bb.bmp and qq.bmp images, it takes a while in greyscale reconstruction with Solution 1.
+(5) The detection results marked with white boxes are the detection results obtained by adding multi-feature constraints, all white plus black boxes are the results without multi-feature constraints, and the black boxes are the false ship targets. When the detected ship is too big, it will be regarded as a non-weak ship target with black box.
+(6) VS2017 configuration opencv tutorial link https://blog.csdn.net/qq_41175905/article/details/80560429

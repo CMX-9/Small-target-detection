@@ -1,0 +1,2 @@
+ii.bmp和bb.bmp是亮舰1  n_expang=8
+qq.bmp和rr.bmp是暗舰2  n_expang=4
